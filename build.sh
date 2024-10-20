@@ -1,3 +1,3 @@
 #!/bin/bash
-#just for testing purpose
+#removing it
 docker build -t josephpatricksoloman/dev:latest .
