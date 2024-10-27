@@ -2,4 +2,4 @@
 docker build -t josephpatricksoloman/dev:1.1 .
 #build for prod
 docker build -t josephpatricksoloman/prod:1.1 .
-# testing  weebhook ngrok 8080
+# testing  weebhook ngrok 
