@@ -1,1 +1,1 @@
-# capstone project
+# REACT APPLICATION CAPSTONE PROJECT
