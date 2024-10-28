@@ -1,9 +1,11 @@
 # REACT APPLICATION CAPSTONE PROJECT
 
 # TOOLS USED
-- Docker
-- Jenkins
 - Git
+- Docker
+- VS code
+- Jenkins
+- DockerHub
 - Prometheus
 - Grafana
 - AWS EC2 Instance
