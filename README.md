@@ -1,9 +1,9 @@
 # REACT APPLICATION CAPSTONE PROJECT
 
 # TOOLS USED
-+ Docker
+- Docker
 - Jenkins
-* Git
-Prometheus
-Grafana
-AWS EC2 Instance
+- Git
+- Prometheus
+- Grafana
+- AWS EC2 Instance
